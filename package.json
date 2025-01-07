@@ -51,7 +51,7 @@
     "rollup-watch": "^4.3.1",
     "ts-node": "^8.0.1",
     "type-tester": "^1.0.0",
-    "typescript": "^3.2.4"
+    "typescript": "^5.7.2"
   },
   "scripts": {
     "preversion": "npm test",
